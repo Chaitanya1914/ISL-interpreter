@@ -617,25 +617,10 @@ See [requirements.txt](./requirements.txt) for complete list.
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
-
-```
-MIT License
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-subject to the following conditions:
-...
-```
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 ### Core Technologies
 - **MediaPipe** — Hand pose estimation framework
@@ -655,39 +640,8 @@ subject to the following conditions:
 - Open-source community members
 - Accessibility champions
 
----
 
-## 📞 Support & Contact
 
-| Channel | Details |
-|---------|---------|
-| **Issues** | [GitHub Issues](https://github.com/Chaitanya1914/ISL-interpreter/issues) |
-| **Discussions** | [GitHub Discussions](https://github.com/Chaitanya1914/ISL-interpreter/discussions) |
-| **Email** | chaitanya1914dev@gmail.com |
-| **Twitter** | [@Chaitanya1914](https://twitter.com/Chaitanya1914) |
-
----
-
-## 💡 Citation
-
-If you use Sign Bridge in your research or project, please cite:
-
-```bibtex
-@software{signbridge2024,
-  author = {Chaitanya},
-  title = {Sign Bridge: Real-Time Indian Sign Language Interpreter},
-  year = {2024},
-  url = {https://github.com/Chaitanya1914/ISL-interpreter}
-}
-```
-
----
-
-<div align="center">
-
-**Made with ❤️ for accessibility**
-
-[⬆ Back to Top](#-table-of-contents)
 
 [⭐ Star us on GitHub](https://github.com/Chaitanya1914/ISL-interpreter) | [🐛 Report Issues](https://github.com/Chaitanya1914/ISL-interpreter/issues) | [💬 Start Discussion](https://github.com/Chaitanya1914/ISL-interpreter/discussions)
 
